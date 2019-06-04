@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\HUDScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\HUDScript.cs" Line="39" Column="1" />
+      <File FileName="Assets\Scripts\CommunicationWindow.cs" Line="160" Column="1" />
+      <File FileName="Assets\Scripts\CameraScript.cs" Line="25" Column="1" />
+      <File FileName="Assets\Scripts\CursorControl.cs" Line="36" Column="1" />
+      <File FileName="Assets\Scripts\SpellCatcher.cs" Line="39" Column="55" />
+      <File FileName="Assets\Scripts\EnemyAttack.cs" Line="25" Column="1" />
+      <File FileName="Assets\Scripts\SpellCaster.cs" Line="41" Column="1" />
+      <File FileName="Assets\Scripts\MovementUpdate.cs" Line="9" Column="30" />
+      <File FileName="Assets\Scripts\EnemyMovement.cs" Line="12" Column="5" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonController.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HealthAndDamage.cs" Line="53" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
